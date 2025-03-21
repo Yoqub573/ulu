@@ -1,4 +1,1 @@
-# ulu
-
-# Git
 # Git
